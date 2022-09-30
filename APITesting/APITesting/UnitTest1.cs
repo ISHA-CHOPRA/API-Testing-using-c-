@@ -1,3 +1,5 @@
+using NUnit.Framework;
+
 namespace APITesting
 {
     public class Tests
